@@ -43,3 +43,6 @@ gem 'coveralls', require: false
 gem 'jquery-rails'
 gem 'mailchimp-api'
 gem 'rails', '3.2.19'
+gem 'bootstrap-sass', '~> 3.3.5'
+gem 'sqlite3'
+gem 'font-awesome-sass'

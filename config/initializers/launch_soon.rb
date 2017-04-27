@@ -8,7 +8,7 @@ MAILCHIMP_LIST_ID = 'LIST_ID'
 SITE_DOMAIN = 'DOMAIN.TLD'
 
 # Title tag for the site:
-SITE_TITLE = 'Title'
+SITE_TITLE = 'Qayaam'
 
 # Keywords for the site:
 SITE_KEYWORDS = 'key, words'
