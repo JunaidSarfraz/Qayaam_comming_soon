@@ -13,6 +13,12 @@
  *= require_tree .
  */
 
+body{
+    background: url(/assets/background.jpg) center center fixed no-repeat;
+    -moz-background-size: cover;
+    background-size: cover;
+}
+
 .row{
     width: 100%;
     margin-left: auto !important;
