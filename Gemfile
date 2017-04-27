@@ -1,14 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.2.3'
 
-group :assets do
-  gem 'coffee-rails',    '~> 3.2.1'
-  gem 'compass-rails'
-  gem 'sass-rails',      '~> 3.2.3'
-  gem 'uglifier',        '>= 1.0.3'
-  gem 'foundation-rails'
-end
-
 group :development, :test do
   gem 'capybara'
   gem 'rspec-rails', '2.99.0'
@@ -46,3 +38,8 @@ gem 'rails', '3.2.19'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'sqlite3'
 gem 'font-awesome-sass'
+gem 'coffee-rails',    '~> 3.2.1'
+gem 'compass-rails'
+gem 'sass-rails',      '~> 3.2.3'
+gem 'uglifier',        '>= 1.0.3'
+gem 'foundation-rails'
